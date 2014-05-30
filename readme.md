@@ -13,5 +13,5 @@ If you think more material needs to be in here, file an issue.
 [mit]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/
 [ca]: http://www.codecademy.com/en/tracks/python
 [dive]: http://www.diveintopython.net/
-[hardpy]: http://learnpythonthehardway.org/
+[hardpy]: http://learnpythonthehardway.org/book/
 [beg-guide]: https://wiki.python.org/moin/BeginnersGuide
