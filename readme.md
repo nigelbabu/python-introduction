@@ -1,5 +1,6 @@
 There's a lot of material on the internet and I'm trying to put them in one
-place for other new python programmers.
+place for other new Python programmers. Especally, when I'm training folks on
+Python
 
 * [Codeacademy][ca]
 * [MIT Course][mit]
@@ -7,7 +8,7 @@ place for other new python programmers.
 * [Learn Python the Hard Way][hardpy]
 * [Python.org's Beginner's Guide][beg-guide]
 
-If you this more material needs to be in here, file an issue.
+If you think more material needs to be in here, file an issue.
 
 [mit]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/
 [ca]: http://www.codecademy.com/en/tracks/python
