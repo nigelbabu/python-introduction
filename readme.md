@@ -7,7 +7,7 @@ You should be able to run through this course in 2 days. It's straight to the po
 
 
 #### [MIT Course][mit]
-This one is from 2008 and I used it myself when I started learning Python. It's a course for people who are not programmers to learn programming with python. If you'd like to watch someone explain to you, this is the best place to go.  Prof. Eric Grimson and Prof. John Guttag are great at explaining this very well.
+This one is from 2008 and I used it myself when I started learning Python. It's a course for people who are not programmers to learn programming with python. If you'd like to watch someone explain to you, this is the best place to go.  Prof. Eric Grimson and Prof. John Guttag are great at explaining things very well.
 
 #### [Dive into Python][dive]
 Mark Pilgrim's very well-known book. You can buy the book, read it online, or download a PDF.
